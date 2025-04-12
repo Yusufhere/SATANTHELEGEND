@@ -1,30 +1,39 @@
 # SATAN IB TOOL
 
-A powerful fb inbox server for Termux with a stylish UI, 90-day OTP-based authentication system, and multi-file support for tokens, messages, and haters. Contact me on facebook for activation :- Facebook -> https://www.facebook.com/legendsatan
-
-![Banner](https://img.shields.io/badge/version-5.0-blue.svg)
-![Platform](https://img.shields.io/badge/platform-Termux%20%2F%20Android-green.svg)
-![Status](https://img.shields.io/badge/status-Active-brightgreen.svg)
+A powerful, secure, and Facebook message server tool for Termux with OT stylish UI. Built to be used easily.
 
 ---
 
-## Features
+## ⚙️ Features
 
-- OTP-based secure access (valid for 90 days)
-- Hater & Hero names in customized fonts
-- Clean bordered UI for inputs and file selections
-- Facebook Graph API based message bombing
-- Token rotation, speed control & restart loop
-- Stylish logs with timestamped delivery
-- Activation expiry auto-handling
+- Stylish Banner & Clean UI
+- File Selection with Bordered Menus
+- Message Sending via Facebook API
+- Termux Optimized Interface
+- Self-Rebuilding Custom Hater & Hero Files
+
+---
+To use this tool you will need activation for which you can contact me on Facebook https://www.facebook.com/legendsatan
+
+---
+🔐 Requirements
+
+pip install requests pyfiglet colorama
 
 ---
 
-## Termux Setup
+⚠️ Disclaimer
 
-Install all dependencies:
+This tool is created for educational and testing purposes only.
+We do not promote misuse or illegal activities. Use responsibly.
+
+---
+## 🛠️ Installation (Termux Only)
 
 ```bash
-pkg update && pkg upgrade -y
+pkg update -y && pkg upgrade -y
 pkg install python git -y
 pip install requests pyfiglet colorama
+git clone https://github.com/Yusufhere/SATANTHELEGEND.git
+cd SATANTHELEGEND
+python SATANIBTOOL.py
