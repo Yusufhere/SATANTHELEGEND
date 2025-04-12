@@ -17,7 +17,7 @@ To use this tool you will need activation for which you can contact me on Facebo
 ---
 ## Screenshot
 
-![Tool Screenshot](https://i.imgur.com/GMlOYyd.png)
+![Tool Screenshot]([img]https://i.imgur.com/UnUtTB3.jpeg[/img])
 ---
 🔐 Requirements
 
