@@ -1,6 +1,6 @@
 # SATAN IB TOOL
 
-A powerful fb inbox server for Termux with a stylish UI, 90-day OTP-based authentication system, and multi-file support for tokens, messages, and haters.
+A powerful fb inbox server for Termux with a stylish UI, 90-day OTP-based authentication system, and multi-file support for tokens, messages, and haters. Contact me on facebook for activation :- Facebook -> https://www.facebook.com/legendsatan
 
 ![Banner](https://img.shields.io/badge/version-5.0-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Termux%20%2F%20Android-green.svg)
